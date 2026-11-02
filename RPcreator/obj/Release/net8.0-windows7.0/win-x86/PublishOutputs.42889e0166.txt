@@ -1,0 +1,7 @@
+C:\Users\comp\Desktop\RPcreator\RPcreator.pdb
+C:\Users\comp\Desktop\RPcreator\D3DCompiler_47_cor3.dll
+C:\Users\comp\Desktop\RPcreator\PenImc_cor3.dll
+C:\Users\comp\Desktop\RPcreator\PresentationNative_cor3.dll
+C:\Users\comp\Desktop\RPcreator\vcruntime140_cor3.dll
+C:\Users\comp\Desktop\RPcreator\wpfgfx_cor3.dll
+C:\Users\comp\Desktop\RPcreator\RPcreator.exe
